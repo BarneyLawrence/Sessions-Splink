@@ -14,3 +14,4 @@ Videos of past sessions:
 
 * [Splinking in a Winter Wonderland](https://www.youtube.com/watch?v=1ijNR3V4v3w) - Produced for Festive Tech Calendar 2023 - Lots of detail on splink v3 and statistical backing. Also hats.
 * [Data Linkage Options: MDM vs Splink (PySpark)](https://www.youtube.com/watch?v=joNamEyfPBMhttps:/) - Presented at SQLBits 2024 - 20 Minute session covering the differences between splink and MDM solutions.
+* [Mastering Record Linkage With Splink](https://www.youtube.com/watch?v=C6HOItmlv8Ahttps:/) - An interview format discussion with Tom Seekings at Simpson Associates.
