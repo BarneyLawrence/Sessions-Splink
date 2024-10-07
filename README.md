@@ -2,6 +2,8 @@
 
 A repository holding resources and presentations relating to Record Linkage in general and the Python package [Splink](https://moj-analytical-services.github.io/splink/).
 
+Resources created by [Barney Lawrence](https://www.linkedin.com/in/barneylawrence/) and [Ash Ward](https://www.linkedin.com/in/ash-ward-1ba84719/)
+
 Past presentations are in sub folders. Latest work is at the top level.
 
 Splink v3 and v4 demos have been tested in both Microsoft Fabric and Synapse Analytics.
